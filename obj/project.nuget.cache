@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WAJAogn4Dwvbp6H7vcJkpsT5ZniuTcOPXfaP2SGB+o2Dj3HODJ07LiUvmNdzkiqzhjnOLJM+Qo1yEGL7NFYBcw==",
+  "success": true,
+  "projectFilePath": "/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/BenthanysPieShopHRM.csproj",
+  "expectedPackageFiles": [
+    "/Users/muhammedbulut/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

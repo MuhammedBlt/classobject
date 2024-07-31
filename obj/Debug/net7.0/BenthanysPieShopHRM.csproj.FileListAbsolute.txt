@@ -1,0 +1,15 @@
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/obj/Debug/net7.0/BenthanysPieShopHRM.csproj.AssemblyReference.cache
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/obj/Debug/net7.0/BenthanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/obj/Debug/net7.0/BenthanysPieShopHRM.AssemblyInfoInputs.cache
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/obj/Debug/net7.0/BenthanysPieShopHRM.AssemblyInfo.cs
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/obj/Debug/net7.0/BenthanysPieShopHRM.csproj.CoreCompileInputs.cache
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/bin/Debug/net7.0/BenthanysPieShopHRM
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/bin/Debug/net7.0/BenthanysPieShopHRM.deps.json
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/bin/Debug/net7.0/BenthanysPieShopHRM.runtimeconfig.json
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/bin/Debug/net7.0/BenthanysPieShopHRM.dll
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/bin/Debug/net7.0/BenthanysPieShopHRM.pdb
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/obj/Debug/net7.0/BenthanysPieShopHRM.dll
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/obj/Debug/net7.0/refint/BenthanysPieShopHRM.dll
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/obj/Debug/net7.0/BenthanysPieShopHRM.pdb
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/obj/Debug/net7.0/BenthanysPieShopHRM.genruntimeconfig.cache
+/Users/muhammedbulut/Projects/BenthanysPieShopHRM/BenthanysPieShopHRM/obj/Debug/net7.0/ref/BenthanysPieShopHRM.dll
